@@ -32,7 +32,10 @@ function sair(){
     // caixa.style.fontWeight = '900'
 
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> dd9a5d29ab32be2ab813fa50e0eb955cc234b63c
 //Pegar a data atual do computador
 let agora = new Date();
 //Pega o dia da semana em valores numéricos
@@ -116,4 +119,8 @@ let contDiv = document.getElementById('cont');
 while(cont < 50){
     cont++;
     contDiv.innerHTML = (cont);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> dd9a5d29ab32be2ab813fa50e0eb955cc234b63c
